@@ -283,7 +283,7 @@ nbstripout==0.3.6
 ndg-httpsclient==0.5.1
 networkx==2.2
 nimbusml==1.3.0
-nltk==3.3
+nltk==3.4.5
 nose==1.3.7
 notebook==5.7.2
 numba==0.40.0
