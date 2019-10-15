@@ -1,5 +1,6 @@
-/files/graphs/*
-/files/svg/*
-/files/xml/*
+/files/graphs/*.graphml
+/files/graphs/*.gexf
+/files/svg/*.svg
+/files/xml/*.xml
 
 *.pyc
