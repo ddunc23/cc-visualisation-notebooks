@@ -333,7 +333,7 @@ protobuf==3.9.1
 psutil==5.4.7
 psycopg2==2.7.5
 ptyprocess==0.6.0
-py==1.6.0
+py==1.10.0
 py4j==0.10.7
 pyang==2.0.1
 pyarrow==0.13.0
