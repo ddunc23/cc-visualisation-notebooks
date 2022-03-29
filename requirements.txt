@@ -306,7 +306,7 @@ pandasql==0.7.3
 pandocfilters==1.4.2
 papermill==1.1.0
 param==1.7.0
-paramiko==2.6.0
+paramiko==2.10.1
 parso==0.3.1
 partd==0.3.8
 path.py==11.1.0
