@@ -143,7 +143,7 @@ bqplot==0.11.7
 brewer2mpl==1.4.1
 bz2file==0.98
 CacheControl==0.12.5
-certifi==2018.10.15
+certifi==2022.12.7
 cffi==1.11.5
 characteristic==14.3.0
 chardet==3.0.4
